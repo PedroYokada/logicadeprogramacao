@@ -15,4 +15,8 @@ Largura: A largura do terreno.
 Comprimento: O comprimento do terreno.
 Metro Quadrado: O valor por metro quadrado.
 
+### Exercicio Retangulo
+
+O exercício pede a base e a altura do retângulo. Digitando essas informações, o algoritmo vai mostrar informações como o perímetro, a diagonal e a área do retângulo.
+
 </p>

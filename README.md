@@ -19,4 +19,11 @@ Metro Quadrado: O valor por metro quadrado.
 
 O exercício pede a base e a altura do retângulo. Digitando essas informações, o algoritmo vai mostrar informações como o perímetro, a diagonal e a área do retângulo.
 
+### Exercicio idade
+
+O exercício pede o nome e idade de duas pessoas, posteriormente ele manda uma mensagem calculando a média entre as idades destas pessoas.
+foi um desafio com uma lógica tranquila, no entanto estava errando na sintaxe da concatenação de texto e as variaveis.
+
+Estava errando nisso, para ligar essa operação com a string deveria usar ',' mas estava utilizando "+" (idade_pessoa1+idade_pessoa2)/2 + " anos!" )
+
 </p>

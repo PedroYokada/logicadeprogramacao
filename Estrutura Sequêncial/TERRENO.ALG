@@ -17,8 +17,8 @@ Inicio
       escreval("Digite o valor do metro quadrado: ")
       leia(metro_quadrado)
       
-      escreval("A area do terreno: "  , largura * comprimento:2)
-      escreval("A area do terreno: "  , largura * comprimento * metro_quadrado:2)
+      escreval("Area do terreno: "  , largura * comprimento:2:2)
+      escreval("Valor do terreno: "  , largura * comprimento * metro_quadrado:2:2)
 
       
       

@@ -1,37 +1,47 @@
-## Repositório de Lógica de Programação
-
-<p align="justify">
-  
+# Repositório de Lógica de Programação
 Este repositório tem como objetivo hospedar exercícios de Portugol que realizei, além de reforçar meus conhecimentos em um aspecto crucial para a carreira de um desenvolvedor.
 
 Os tópicos estão organizados em pastas, conforme descrito abaixo:
 
-## Pasta estrutura sequencial
+# Pasta Estrutura Sequencial
 
-### Exercicio Terreno
-O exercício "Terreno" tem como finalidade calcular o valor e a área de um terreno. Para isso, são considerados os seguintes parâmetros:
+## Exercício Terreno
+O exercício "Terreno" tem como finalidade calcular o valor e a área de um terreno. Os parâmetros considerados são:
 
 Largura: A largura do terreno.
 Comprimento: O comprimento do terreno.
 Metro Quadrado: O valor por metro quadrado.
 
-### Exercicio Retangulo
+## Exercício Retângulo
+Este exercício solicita a base e a altura de um retângulo. Com essas informações, o algoritmo calcula e exibe:
 
-O exercício pede a base e a altura do retângulo. Digitando essas informações, o algoritmo vai mostrar informações como o perímetro, a diagonal e a área do retângulo.
+O perímetro
+A diagonal
+A área do retângulo
 
-### Exercicio idade
+## Exercício Idade
+Este exercício pede o nome e a idade de duas pessoas, depois calcula e exibe a média das idades. Enfrentei um desafio com a lógica de concatenação de texto e variáveis, pois estava utilizando "+" ao invés de "," para concatenar (por exemplo, (idade_pessoa1 + idade_pessoa2) / 2 + " anos!" deveria ser (idade_pessoa1 + idade_pessoa2) / 2, " anos!").
 
-O exercício pede o nome e idade de duas pessoas, posteriormente ele manda uma mensagem calculando a média entre as idades destas pessoas.
-foi um desafio com uma lógica tranquila, no entanto estava errando na sintaxe da concatenação de texto e as variaveis.
+## Exercício Círculo
+O objetivo deste exercício é calcular o raio e a área de um círculo.
 
-Estava errando nisso, para ligar essa operação com a string deveria usar ',' mas estava utilizando "+" (idade_pessoa1+idade_pessoa2)/2 + " anos!" )
+## Exercício Consumo
+Neste exercício, calcula-se a distância percorrida em um trajeto, dividindo a distância pelo combustível gasto.
 
-### Exercicio circulo
+## Exercício Duração
+Este exercício pede a quantidade de segundos e, em seguida, o algoritmo converte esse valor em horas, minutos e segundos.
 
-Este exercicio tem a finalidade de fazer o calculo do raio e area de um circulo
+## Exercício Soma
+Este algoritmo solicita os valores de x e y, e então exibe a soma desses dois valores.
 
-### Exercicio consumo
+## Exercício Pagamento
+O algoritmo pede o nome do funcionário, o valor da hora trabalhada e a quantidade de horas trabalhadas. Em seguida, calcula o salário multiplicando o valor da hora pela quantidade de horas, e exibe o nome do funcionário e o valor a receber.
 
-Este exercicio tem a finalidade de fazer o calculo da distancia percorrida de um trajeto, fazendo a divisão da distancia e combustivel gasto.
+## Exercício Medidas
+Este algoritmo pede três valores, a, b, e c, e calcula:
 
-</p>
+A área de um quadrado (a * a)
+A área de um triângulo (metade da base a vezes a altura b)
+A área de um trapézio (média das bases a e b vezes a altura c)
+## Exercício Troco
+Este algoritmo solicita o preço unitário de um produto, a quantidade comprada e o valor do dinheiro recebido. Em seguida, calcula o troco subtraindo o valor total da compra (preço unitário multiplicado pela quantidade) do valor recebido.

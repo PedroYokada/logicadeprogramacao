@@ -57,3 +57,7 @@ ou se e menor que 60, e mostra se o aluno foi aprovado ou não.
 
 Este exercício tem a finalidade de realizar o cálculo da fórmula de bhaskara, se a equação não tiver raízes reais, vai mostrar uma mensagem que a equação não possui raízes reais,
 caso tenha as raízes reais, o algoritmo vai calcular o x1 e x2.
+
+## Exercício menor de tres
+
+Este exercício pede três valores, posteriormente testa em três condições e mostra o menor número dos 3 valores digitados pelo usuário.

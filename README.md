@@ -61,3 +61,7 @@ caso tenha as raízes reais, o algoritmo vai calcular o x1 e x2.
 ## Exercício menor de tres
 
 Este exercício pede três valores, posteriormente testa em três condições e mostra o menor número dos 3 valores digitados pelo usuário.
+
+## Exercício operadora
+
+Neste exercício uma operadora de telefonia tem um plano de 100 minutos com um valor até R$ 50.00, mas se o número de minutos exceder esses 100 minutos uma taxa de R$ 2.00 é cobrada.

@@ -1,4 +1,4 @@
-Algoritmo "baskara"
+Algoritmo "bhaskara"
 
 
 Var

@@ -53,3 +53,7 @@ Este algoritmo solicita o preço unitário de um produto, a quantidade comprada 
 Este exercício pede o valor de duas notas, após isso o algoritmo analisa esse resultado em duas condições, se a nota é maior ou igual a 60,
 ou se e menor que 60, e mostra se o aluno foi aprovado ou não.
 
+## Exercício bhaskara 
+
+Este exercício tem a finalidade de realizar o cálculo da fórmula de bhaskara, se a equação não tiver raízes reais, vai mostrar uma mensagem que a equação não possui raízes reais,
+caso tenha as raízes reais, o algoritmo vai calcular o x1 e x2.

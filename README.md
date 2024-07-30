@@ -45,3 +45,11 @@ A área de um triângulo (metade da base a vezes a altura b)
 A área de um trapézio (média das bases a e b vezes a altura c)
 ## Exercício Troco
 Este algoritmo solicita o preço unitário de um produto, a quantidade comprada e o valor do dinheiro recebido. Em seguida, calcula o troco subtraindo o valor total da compra (preço unitário multiplicado pela quantidade) do valor recebido.
+
+# Pasta Estrutura Condicional
+
+## Exercício Notas
+
+Este exercício pede o valor de duas notas, após isso o algoritmo analisa esse resultado em duas condições, se a nota é maior ou igual a 60,
+ou se e menor que 60, e mostra se o aluno foi aprovado ou não.
+

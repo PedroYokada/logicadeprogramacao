@@ -17,7 +17,7 @@ Inicio
    leia(c)
 
    escreval("AREA DO QUADRADO: " , a * a:2:4)
-   escreval("AREA DO TRAPEZIO: " , (a/2) * b:2:4)
+   escreval("AREA DO TRIANGULO" , (a/2) * b:2:4)
    escreval("AREA DO TRAPEZIO: " , ((a+b)/2) * c:2:4)
 
 

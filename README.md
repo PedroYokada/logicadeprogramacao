@@ -26,4 +26,12 @@ foi um desafio com uma lógica tranquila, no entanto estava errando na sintaxe d
 
 Estava errando nisso, para ligar essa operação com a string deveria usar ',' mas estava utilizando "+" (idade_pessoa1+idade_pessoa2)/2 + " anos!" )
 
+### Exercicio circulo
+
+Este exercicio tem a finalidade de fazer o calculo do raio e area de um circulo
+
+### Exercicio consumo
+
+Este exercicio tem a finalidade de fazer o calculo da distancia percorrida de um trajeto, fazendo a divisão da distancia e combustivel gasto.
+
 </p>

@@ -65,3 +65,8 @@ Este exercício pede três valores, posteriormente testa em três condições e 
 ## Exercício operadora
 
 Neste exercício uma operadora de telefonia tem um plano de 100 minutos com um valor até R$ 50.00, mas se o número de minutos exceder esses 100 minutos uma taxa de R$ 2.00 é cobrada.
+
+## Exercício troco verificado
+
+Este exercício é parecido com exercício troco, porem com o acréscimo de estrutura condicional, se o dinheiro pago for maior ou igual que o preço final da compra vai mostrar o troco,
+se não vai mostrar que o dinheiro é insuficiente e vai mostrar o valor que falta.

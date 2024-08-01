@@ -2,7 +2,6 @@ Algoritmo "lanchonete"
 
 Var
    cod_produto:caractere
-   produto:real
    quantidade:inteiro
 Inicio
 

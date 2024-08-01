@@ -33,13 +33,13 @@ Inicio
                   senao
                      se (x > 0) e (y = 0) entao
                         escreval("AS COORDENADAS ESTÃO NO PONTO DE ORIGEM DO EIXO X")
-                     fimse
                   fimse
                fimse
             fimse
          fimse
       fimse
    fimse
+fimse
 
 
 

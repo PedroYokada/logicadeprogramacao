@@ -4,9 +4,6 @@ Var
 
    x:inteiro
 
-
-
-
 Inicio
 
 

@@ -73,25 +73,32 @@ se não vai mostrar que o dinheiro é insuficiente e vai mostrar o valor que fal
 
 ## Exercício tempo de jogo
 
+O exercício em questão pede uma hora inicial e uma final, ao digitar as informações o algoritmo mostra a quantidade de horas que o jogo durou.
+
 ## Exercício temperatura
 
+Este exercício pede a temperatura em célsius ou Kelvin, ao digitar célsius, vai pedir a temperatura, ao final vai mostrar o resultado em fahrenheit, e vice-versa.
 
 ## Exercício multiplos
 
-
-## Exercício temperatura
-
+Este exercício pede dois números, ao final ele vai dizer se eles são múltiplos ou não.
 
 ## Exercício lanchonete
 
+No exercício lanchonete, o algoritmo vai pedir o código do produto, posteriormente vai pedir a quantidade, ao final ira multiplicar a quantidade com o valor do produto e mostrara o preço final.
 
 ## Exercício glicose
 
+Este algoritmo vai pedir a taxa de glicose, vai mostrar se está normal, equilibrada ou alta.
 
 ## Exercício dardo
 
+Este algoritmo vai pedir a distância de três dardos, ao final vai mostrar qual é a maior distância.
 
 ## Exercício coordenadas
 
+No exercício de coordenadas, será solicitado o valor de x e y. Existem sete possibilidades para a localização do ponto: quadrante 1, quadrante 2, quadrante 3, quadrante 4, ponto de origem (0,0), sobre o eixo x, e sobre o eixo y.
 
 ## Exercício aumento
+
+Neste exercício, será solicitado o valor do salário do funcionário. O aumento será determinado com base no valor do salário, seguindo estas regras: um aumento fixo de $20, ou percentuais de 15%, 10%, e 5%.

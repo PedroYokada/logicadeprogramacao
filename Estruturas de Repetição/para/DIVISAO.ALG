@@ -26,6 +26,7 @@ Inicio
       se (denominador = 0) entao
       
          escreval("Divisão impossivel")
+         
       senao
          divisao <- numerador/denominador
          

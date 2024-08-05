@@ -102,3 +102,5 @@ No exercício de coordenadas, será solicitado o valor de x e y. Existem sete po
 ## Exercício aumento
 
 Neste exercício, será solicitado o valor do salário do funcionário. O aumento será determinado com base no valor do salário, seguindo estas regras: um aumento fixo de $20, ou percentuais de 15%, 10%, e 5%.
+
+# Pasta Estrutura de repetição (Enquanto)

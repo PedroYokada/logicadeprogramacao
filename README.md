@@ -104,3 +104,42 @@ No exercício de coordenadas, será solicitado o valor de x e y. Existem sete po
 Neste exercício, será solicitado o valor do salário do funcionário. O aumento será determinado com base no valor do salário, seguindo estas regras: um aumento fixo de $20, ou percentuais de 15%, 10%, e 5%.
 
 # Pasta Estrutura de repetição (Enquanto)
+
+## Exercício combustivel 
+
+Neste exercício, o usuário deve inserir valores de 1 para solicitar álcool, 2 para gasolina, 3 para diesel e 4 para parar, a estrutura enquanto
+serve para ser aplicada porque o número de vezes que o usuário vai solicitar cada elemento é imprevisível, portanto o enquanto(while) é a estrutura
+mais adequada para esse exercício.
+
+## Exercício crescente
+
+Este exercícios vai solicitar dois número, vai entrar no laço, vai informar se é crescente ou decrescente, só vai encerrar enquanto os números
+forem iguais.
+
+## Exercício enquanto_exemplo
+
+Neste exemplo, o algoritmo pede um número, enquanto for diferente de 0, ele vai somando todos os números inseridos pelo usuário.
+
+## Exercício media_idades
+
+Neste exercício, pede o valor da idade, enquanto for maior que zero, o algoritmo vai somar, e quando a variável for menor que zero
+for digitada ele vai dar as médias das idades.
+
+## Exercício pares_consecutivos
+
+Neste exercício vai pedir um número inteiro, enquanto esse valor for diferente de zero, o algoritmo entra no laço, tem duas condições
+se x tiver resto diferente de zero, vai somar esses valores o x vai receber esses valores: (x+1) + (x+3) + (x+5) + (x+7) + (x+9), e se o resto for igual a zero, caso ao contrário x recebe: x + (x+2) + (x+4) + (x+6) + (x+8). Se zero for inserido o laço encerra.
+
+## Exercício quadrante
+
+Neste exercício enquanto x e y for diferente de zero, vai mostrar em qual quadrante as coordenadas se situam, se for igual a zero o laço se encerra.
+
+## Exercício senha_fixa
+
+Nesse algoritmo vai pedir uma senha, enquanto a senha(2002) não for digitada, o laço de repetição não encerra.
+
+## Exercício validação de nota
+
+Neste exercício pede duas notas, neste exercício não pode inserir notas menores que 0 e maiores que 10, tanto para x e y, caso os valores corretos
+forem inseridos o laço se encerra e mostra a média das notas.
+

@@ -183,7 +183,7 @@ forem inseridos o laço se encerra e mostra a média das notas.
 
 ## Tabuada
 
-<li> Neste exercício vai pedir um número e posteriormente vai mostrar a tabuada do número de 1 até 10.
+<li> Neste exercício vai pedir um número e posteriormente vai mostrar a tabuada deste número multiplicado de 1 até 10.
 
 
 # Pasta Vetores

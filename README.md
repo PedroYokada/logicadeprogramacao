@@ -103,7 +103,7 @@ se não vai mostrar que o dinheiro é insuficiente e vai mostrar o valor que fal
 
 <li>Neste exercício, será solicitado o valor do salário do funcionário. O aumento será determinado com base no valor do salário, seguindo estas regras: um aumento fixo de $20, ou percentuais de 15%, 10%, e 5%.
 
-# Pasta Estrutura de repetição (Enquanto)
+# Pasta Estrutura de repetição (Enquanto - While)
 
 ## Exercício combustivel 
 
@@ -142,4 +142,47 @@ se x tiver resto diferente de zero, vai somar esses valores o x vai receber esse
 
 <li>Neste exercício pede duas notas, neste exercício não pode inserir notas menores que 0 e maiores que 10, tanto para x e y, caso os valores corretos
 forem inseridos o laço se encerra e mostra a média das notas.
+
+# Pasta Estrutura de repetição (Para - For)
+
+## Exercício Dentro-Fora
+
+<li> Neste exercício o algoritmo pede quantos números o usuário quer digitar, posteriormente confere se um determinado número esta no intervalo entre 10 e 20, ao final mostra a quantidade de números dentro e fora do intervalo.
+
+## Divisão
+
+<li> No exercício pede quantas divisões o usuário quer, posteriormente vai pedir o numerador e denominador, se o denominador for igual a zero, vai mostrar uma mensagem "divisão impossível" caso ao contrário vai mostrar o valor da divisão.
+
+## Experiências
+
+<li> De longe o exercício mais difícil até o momento deste repositório, o exercício pede quantos testes de cobaias, posteriormente entra no laço de repetição, vai pedir a quantidade e o tipo de cobaia, depois cai na estrutura de decisão para fazer as somas do tipo de cobaia, mostra posteriormente o valor total das cobaias, a quantidade de cada cobaia e o percentual delas.
+  
+## Fatorial
+
+<li> Neste exercício, é solicitado o valor de um número para o cálculo do fatorial. Se o número for menor que zero ou maior que quinze, o cálculo não será realizado. Caso contrário, haverá duas condições: se o número for igual a zero, o valor será um; se não, o fatorial será calculado.
+
+## Media Ponderada
+
+<li> Neste exercício vai pedir 3 valores, e vai realizar a média ponderada deles.
+
+## Par Impar
+
+<li> Neste exercício possui 5 condições, ao pedir um número o algoritmo vai mostrar se o valor for nulo, for impar positivo, par negativo, par positivo e impar positivo.
+
+## Para exemplo
+
+<li> Neste exercício vai pedir ao usuário a quantidade de números que o usuário deseja, ao final vai mostrar a soma deles.
+
+## Sequência impares
+
+<li> Este exercícios pede um número, ao final vai mostrar todos os números impares a partir do número um.
+
+## Somas impares
+
+<li> Neste exercício, serão solicitados dois números. Independentemente da ordem, se  x for maior que  y, ao final, será exibida a soma dos números ímpares entre eles.
+
+## Tabuada
+
+<li> Neste exercício vai pedir um número e posteriormente vai mostrar a tabuada do número de 1 até 10.
+
 

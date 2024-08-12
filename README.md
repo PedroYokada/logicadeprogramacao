@@ -199,6 +199,10 @@ forem inseridos o laço se encerra e mostra a média das notas.
 ## Exercício negativos
 
 <li> Este exercício solicita ao usuário a quantidade de números que ele deseja inserir, com um limite de até 10 números no vetor. Após a inserção dos números, o programa exibe apenas os valores negativos que foram digitados.
+
+## Exercício soma_vetores
+
+<li> Este exercício solicita ao usuário o número de valores que ele deseja inserir. Em seguida, o algoritmo soma todos esses valores e calcula a média.
   
 # Pasta Matrizes
 

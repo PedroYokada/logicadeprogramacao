@@ -185,6 +185,11 @@ forem inseridos o laço se encerra e mostra a média das notas.
 
 <li> Neste exercício vai pedir um número e posteriormente vai mostrar a tabuada deste número multiplicado de 1 até 10.
 
+# Pasta Estrutura Repita até 
+
+## Exercício REPITA_ATE_EXEMPLO
+
+<li> Neste exercício, o usuário deve inserir uma temperatura em Celsius e o algoritmo vai converter em fahrenheit, a estrutura repita até vai garantir que pelo menos o código repita pelo menos uma vez.
 
 # Pasta Vetores
 

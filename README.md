@@ -193,6 +193,13 @@ forem inseridos o laço se encerra e mostra a média das notas.
 
 # Pasta Vetores
 
+## Exercício vetor_exemplo
+<li> Este exercício é um exemplo que realizei durante a videoaula de um curso que estou fazendo. Neste algoritmo, é solicitado quantos números eu quero digitar. Após isso, os valores são armazenados em um vetor.
+
+## Exercício negativos
+
+<li> Este exercício solicita ao usuário a quantidade de números que ele deseja inserir, com um limite de até 10 números no vetor. Após a inserção dos números, o programa exibe apenas os valores negativos que foram digitados.
+  
 # Pasta Matrizes
 
 

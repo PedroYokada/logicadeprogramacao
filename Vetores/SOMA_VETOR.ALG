@@ -24,7 +24,7 @@ Inicio
    escreva(" VALORES = ")
 
    para i de 1 ate num faca
-      escreva(vet[i]:2:1, " ")
+      escreva(vet[i]:2:2, " ")
    fimpara
 
    escreval

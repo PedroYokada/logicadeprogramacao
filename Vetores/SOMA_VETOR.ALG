@@ -1,36 +1,40 @@
 Algoritmo "soma_vetor"
 
+//Faça um programa que leia N números reais e armazene-os em um vetor.
+//Em seguida:
+//- Imprimir todos os elementos do vetor
+//- Mostrar na tela a soma e a média dos elementos do vetor
+
 Var
 
-   num,i:inteiro
-   media,soma: real
+   n,i: inteiro
    vet: vetor [0..9] de real
-
+   media,soma_vetor: real
+   
 Inicio
 
-   media <- 0
-   soma <- 0
-
-   escreval("Quantos numeros voce vai digitar?")
-   leia(num)
-
-   para i de 1 ate num faca
-      escreval("Digite um numero")
-      leia(vet[i])
-      soma <- vet[i] + soma
-      media <- media + 1
-   fimpara
-
-   escreva(" VALORES = ")
-
-   para i de 1 ate num faca
-      escreva(vet[i]:2:2, " ")
-   fimpara
-
-   escreval
-   escreval("Soma: ", soma:2:2)
-   escreval("Média: ", soma/media:2:2)
-
+      escreval("Quantos numeros voce quer digitar?")
+      leia(n)
+      
+      para i de 0 ate n-1 faca
+           escreval("Digite um numero: ")
+           leia(vet[i])
+           soma_vetor <-  vet[i] + soma_vetor
+           media <- 1 + media
+      fimpara
+      
+      
+      escreva("VALORES = ")
+      
+      para i de 0 ate n-1 faca
+          escreva(vet[i])
+      fimpara
+      
+      escreval
+      escreval("SOMA = ", soma_vetor:2:2)
+      escreval("MEDIA = ", soma_vetor/media:2:2)
+      
+      
 
 
 Fimalgoritmo

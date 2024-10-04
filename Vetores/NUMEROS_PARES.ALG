@@ -1,41 +1,55 @@
 Algoritmo "numeros_pares"
+//Problema "numeros_pares"
+//Faça um programa que leia N números inteiros e armazene-os em um vetor.
+//Em seguida, mostre na
+//tela todos os números pares, e também a quantidade de números pares.
 
+//Quantos numeros voce vai digitar? 6
+//Digite um numero: 8
+//Digite um numero: 2
+//Digite um numero: 11
+//Digite um numero: 14
+//Digite um numero: 13
+//Digite um numero: 20
+//NUMEROS PARES:
+//8 2 14 20
+//QUANTIDADE DE PARES = 4
 Var
-
-   qtnd_num,qtnd_vetores_pares,i:inteiro
-   vet: vetor [0..9] de inteiro
-
-
-
+   n,i,qnt_pares: inteiro
+   numeros_vet: vetor[0..9] de inteiro
 Inicio
 
-   qtnd_vetores_pares <- 0
+   qnt_pares <- 0
 
-   escreva("Quantos numeros voce vai digitar?:")
-   leia(qtnd_num)
+   escreva("Quantos numeros voce vai digitar? ")
+   leia(n)
 
-   escreval
-
-   para i de 1 ate  qtnd_num faca
-
-      escreval("Digite um numero: ")
-      leia(vet[i])
-
-      se vet[i] % 2 = 0 entao
-         qtnd_vetores_pares <- qtnd_vetores_pares + 1
-      fimse
-
+   para i de 0 ate n-1 faca
+      escreval("Digite um numero:")
+      leia(numeros_vet[i])
    fimpara
 
-   escreval("NUMEROS PARES: ")
+   escreva("Numeros pares: " )
 
-   para i de 1 ate  qtnd_num faca
-      se vet[i] % 2 = 0 entao
-         escreva(vet[i], " ")
+   para i de 0 ate n-1 faca
+      se numeros_vet[i] % 2 = 0 entao
+         escreva(numeros_vet[i] )
+      fimse
+   fimpara
+
+   para i de 0 ate n-1 faca
+      se numeros_vet[i] % 2 = 0 entao
+         qnt_pares <- qnt_pares + 1
       fimse
    fimpara
 
    escreval
-   escreval("QUANTIDADE DE PARES = ", qtnd_vetores_pares)
+   escreva("Quantidade pares: ")
+   escreva(qnt_pares)
+
+
+
+
+
 
 Fimalgoritmo

@@ -1,6 +1,6 @@
 Algoritmo "dados_pessoas"
-//  
-//  
+//
+//
 //Tem-se um conjunto de dados contendo a altura e o gênero (M, F)
 //de N pessoas. Fazer um programa
 //que calcule e escreva a maior e a menor altura do grupo,
@@ -12,13 +12,6 @@ Var
    genero: vetor[0..9] de caractere
    maior_altura,menor_altura,soma_mulheres_altura,media: real
 Inicio
-
-   soma_mulheres_altura <- 0
-   homens <- 0
-   mulheres <- 0
-   media <- 0
-
-   menor_altura <- 9.99
 
    escreva("Quantas pessoas serao digitadas? ")
    leia(n)
@@ -38,32 +31,48 @@ Inicio
       fimse
    fimpara
 
-   para i de 0 ate n-1 faca
-      se altura[i] <= menor_altura entao
-         menor_altura <- altura[i]
-      fimse
+   maior_altura <- altura[0]
+   menor_altura <- altura[0]
 
-      se altura[i] >= maior_altura entao
+   para i de 0 ate n-1 faca
+      se altura[i] > maior_altura entao
          maior_altura <- altura[i]
       fimse
+
+      se altura[i] < menor_altura entao
+         menor_altura <- altura[i]
+      fimse
    fimpara
+
+   escreval
+   escreval("Menor altura = ", menor_altura:4:2)
+   escreval("Maior altura = ", maior_altura:4:2)
+
+   soma_mulheres_altura <- 0
+   homens <- 0
+   mulheres <- 0
+   media <- 0
 
    para i de 0 ate n-1 faca
       se genero[i] = "F" entao
          soma_mulheres_altura <- altura[i] + soma_mulheres_altura
          mulheres <- mulheres + 1
-      senao
-         homens <- 1 + homens
       fimse
    fimpara
 
-   media <- soma_mulheres_altura/mulheres
+   se soma_mulheres_altura = 0 entao
+      escreval("Impossivel o calculo da media das alturas de mulheres!")
+   senao
+      media <- soma_mulheres_altura/mulheres
+      escreval("Media das alturas das mulheres = ", media:4:2)
+   fimse
+   
 
-   escreval
-   escreval("Menor altura = ", menor_altura:4:2)
-   escreval("Maior altura = ", maior_altura:4:2)
-   escreval("Media das alturas das mulheres = ", media:4:2)
+   homens <- n - mulheres
+
+
    escreval("Numero de homens = ", homens)
+
 
 
 Fimalgoritmo

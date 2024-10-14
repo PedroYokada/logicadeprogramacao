@@ -17,10 +17,8 @@ Inicio
 
    enquanto (n < 1) ou (n > 10) ou (m < 1) ou (m > 10) faca
       escreval("Quantidade de linhas ou colunas inválidas, digite novamente!")
-
       escreva("Qual a quantidade de linhas da matriz? (máximo = 10): ")
       leia(n)
-
       escreva("Qual a quantidade de colunas da matriz? (máximo = 10): ")
       leia(m)
    fimenquanto

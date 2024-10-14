@@ -5,8 +5,9 @@ Algoritmo "cada_linha"
 //de cada linha. Suponha não haver empates.
 
 Var
-   n,i,j,maior: inteiro
-   mat: vetor [0..9,0..9] de inteiro
+   n,i,j: inteiro
+   maior: real
+   mat: vetor [0..9,0..9] de real
 Inicio
 
    escreva("Qual a ordem da matriz? (máximo = 10) ")
@@ -19,10 +20,12 @@ Inicio
    fimenquanto
 
    para i de 0 ate n-1 faca
+   
       para j de 0 ate n-1 faca
          escreva("Elemento ","[",i ,",", j ,"]: ")
          leia(mat[i,j])
       fimpara
+      
    fimpara
 
    escreva("MAIOR ELEMENTO DE CADA LINHA: ")
@@ -31,13 +34,17 @@ Inicio
    maior <- 0
 
    para i de 0 ate n-1 faca
+   
+      maior <- mat[i,0]
+      
       para j de 0 ate n-1 faca
-         se maior < mat[i,j] entao
+         se  mat[i,j] > maior entao
             maior <- mat[i,j]
          fimse
       fimpara
+      
       escreval(maior)
-      maior <- 0
+      
    fimpara
 
 Fimalgoritmo

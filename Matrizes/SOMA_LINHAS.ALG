@@ -9,7 +9,7 @@ Algoritmo "soma_linhas"
 
 Var
    i,j,n,l:inteiro
-   soma: real
+   vet: vetor [0..9,0..9] de real
    mat: vetor [0..9,0..9] de real
 Inicio
 
@@ -30,21 +30,22 @@ Inicio
    fimenquanto
 
    para i de 0 ate n-1 faca
+      escreval("Digite os elementos da", i+1 ,"a. linha: ")
       para j de 0 ate l-1 faca
-         escreva("Digite os elementos da", i+1 ,"a. linha: ")
          leia(mat[i,j])
+      fimpara
+   fimpara
+
+   para i de 0 ate n-1 faca
+      vet[i] <- 0
+      para j de 0 ate l-1 faca
+         vet[i] <- vet[i] + mat[i,j]
       fimpara
    fimpara
 
    escreval("VETOR GERADO: ")
 
-   soma <- 0
-
    para i de 0 ate n-1 faca
-      para j de 0 ate l-1 faca
-         soma <- mat[i,j] + soma
-      fimpara
-      escreval("A soma da " ,1+i,"a.linha é de: ", soma:4:2)
-      soma <- 0
+      escreval(vet[i]:3:2)
    fimpara
 Fimalgoritmo

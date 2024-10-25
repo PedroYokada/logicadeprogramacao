@@ -24,7 +24,7 @@ int main()
     else
 
     {
-        printf("a equacao possui duas raizes reais e distintas!\n");
+        printf("a equacao ao menos uma raiz real!\n");
 
         x1 = ((-b + sqrt(delta)) / (2*a));
         x2 = ((-b - sqrt(delta)) / (2*a));

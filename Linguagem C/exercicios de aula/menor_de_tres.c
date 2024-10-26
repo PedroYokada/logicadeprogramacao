@@ -10,7 +10,7 @@ int main()
     printf("Segundo valor: ");
     scanf("%d", &n2);
 
-    printf("Terceiro valoro: ");
+    printf("Terceiro valor: ");
     scanf("%d", &n3);
 
     if (n1 < n2 && n1 < n3)

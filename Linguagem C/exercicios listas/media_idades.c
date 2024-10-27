@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-void limpar_entrada()
-{
-    char c;
-    while ((c = getchar()) != '\n' && c != EOF) {}
-}
-
 int main()
 {
     double idade,soma_idades,media;
@@ -19,7 +13,6 @@ int main()
 
     while (idade >= 0)
     {
-        limpar_entrada();
         scanf("%lf", &idade);
 
         if (idade < 0)
@@ -36,7 +29,6 @@ int main()
     }
     else
     {
-        limpar_entrada();
         media = soma_idades/cont;
         printf("MEDIA = %.2lf",media);
     }

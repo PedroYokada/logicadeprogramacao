@@ -2,7 +2,7 @@
 
 int main()
 {
-    double largura,comprimento, metro_quadrado,area,valor;
+    double largura,comprimento,area,valor,preco;
 
     printf("Digite a largura do terreno: ");
     scanf("%lf", &largura);
@@ -11,14 +11,14 @@ int main()
     scanf("%lf", &comprimento);
 
     printf("Digite o valor do metro quadrado: ");
-    scanf("%lf", &metro_quadrado);
+    scanf("%lf", &valor);
 
     area = comprimento * largura;
 
-    valor = largura * comprimento * metro_quadrado;
+    preco = area * preco;
 
     printf("Area do terreno = %.2lf\n", area);
-    printf("Preco do terreno = %.2lf\n", valor);
+    printf("Preco do terreno = %.2lf\n", preco);
 
 
     return 0;

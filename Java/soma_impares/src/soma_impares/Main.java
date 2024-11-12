@@ -8,7 +8,7 @@ public class Main {
 
 		Scanner sc = new Scanner(System.in);
 
-		int x, y, troca, i, soma;
+		int x, y, troca, soma;
 
 		System.out.println("Digite dois numeros: ");
 		x = sc.nextInt();
@@ -22,7 +22,7 @@ public class Main {
 
 		soma = 0;
 
-		for (i = x + 1; i < y; i++) {
+		for (int i = x + 1; i < y; i++) {
 			if (i % 2 != 0) {
 				soma += i;
 			}

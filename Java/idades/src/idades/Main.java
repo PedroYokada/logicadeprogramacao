@@ -20,17 +20,17 @@ public class Main {
 		System.out.print("Idade: ");
 		idade1 = sc.nextInt();
 		
-		sc.nextLine();
-
 		System.out.println("Dados da segunda pessoa: ");
 		System.out.print("Nome: ");
+		sc.nextLine();
 		nome2 = sc.nextLine();
 		System.out.print("Idade: ");
 		idade2 = sc.nextInt();
 		
 		media = (double) (idade1 + idade2) / 2;
 		
-		System.out.println("A idade média de " + nome1 + " e " + nome2 + " de " + media + " anos");
+		System.out.println("A idade média de " + nome1 + " e " + nome2 + 
+				" eh de " + String.format("%.1f", media + " anos"));
 
 		sc.close();
 

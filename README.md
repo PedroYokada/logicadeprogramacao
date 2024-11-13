@@ -8,9 +8,6 @@
 ## Exercício Terreno
 <li>O exercício "Terreno" tem como finalidade calcular o valor e a área de um terreno. Os parâmetros considerados são:
 
-<li>Largura: A largura do terreno.
-<li>Comprimento: O comprimento do terreno.
-<li>Metro Quadrado: O valor por metro quadrado.
 
 
 

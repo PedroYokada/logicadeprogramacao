@@ -1,0 +1,14 @@
+C:\C# Projetos\trapezio\trapezio\bin\Debug\net8.0\trapezio.exe
+C:\C# Projetos\trapezio\trapezio\bin\Debug\net8.0\trapezio.deps.json
+C:\C# Projetos\trapezio\trapezio\bin\Debug\net8.0\trapezio.runtimeconfig.json
+C:\C# Projetos\trapezio\trapezio\bin\Debug\net8.0\trapezio.dll
+C:\C# Projetos\trapezio\trapezio\bin\Debug\net8.0\trapezio.pdb
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.AssemblyInfoInputs.cache
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.AssemblyInfo.cs
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.csproj.CoreCompileInputs.cache
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.dll
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\refint\trapezio.dll
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.pdb
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\trapezio.genruntimeconfig.cache
+C:\C# Projetos\trapezio\trapezio\obj\Debug\net8.0\ref\trapezio.dll

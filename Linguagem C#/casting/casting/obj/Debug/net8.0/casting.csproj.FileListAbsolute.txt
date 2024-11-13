@@ -1,0 +1,14 @@
+C:\C# Projetos\casting\casting\bin\Debug\net8.0\casting.exe
+C:\C# Projetos\casting\casting\bin\Debug\net8.0\casting.deps.json
+C:\C# Projetos\casting\casting\bin\Debug\net8.0\casting.runtimeconfig.json
+C:\C# Projetos\casting\casting\bin\Debug\net8.0\casting.dll
+C:\C# Projetos\casting\casting\bin\Debug\net8.0\casting.pdb
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.AssemblyInfoInputs.cache
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.AssemblyInfo.cs
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.csproj.CoreCompileInputs.cache
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.dll
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\refint\casting.dll
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.pdb
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\casting.genruntimeconfig.cache
+C:\C# Projetos\casting\casting\obj\Debug\net8.0\ref\casting.dll

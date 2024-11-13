@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\bin\Debug\net8.0\dados_variaveis.exe
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\bin\Debug\net8.0\dados_variaveis.deps.json
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\bin\Debug\net8.0\dados_variaveis.runtimeconfig.json
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\bin\Debug\net8.0\dados_variaveis.dll
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\bin\Debug\net8.0\dados_variaveis.pdb
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.AssemblyInfo.cs
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.dll
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\refint\dados_variaveis.dll
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.pdb
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\dados_variaveis.genruntimeconfig.cache
+C:\Users\pedro\source\repos\dados_variaveis\dados_variaveis\obj\Debug\net8.0\ref\dados_variaveis.dll

@@ -1,0 +1,14 @@
+C:\C# Projetos\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.exe
+C:\C# Projetos\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.deps.json
+C:\C# Projetos\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.runtimeconfig.json
+C:\C# Projetos\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.dll
+C:\C# Projetos\Primeiro\Primeiro\bin\Debug\net8.0\Primeiro.pdb
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfoInputs.cache
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.AssemblyInfo.cs
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.dll
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\refint\Primeiro.dll
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.pdb
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\Primeiro.genruntimeconfig.cache
+C:\C# Projetos\Primeiro\Primeiro\obj\Debug\net8.0\ref\Primeiro.dll

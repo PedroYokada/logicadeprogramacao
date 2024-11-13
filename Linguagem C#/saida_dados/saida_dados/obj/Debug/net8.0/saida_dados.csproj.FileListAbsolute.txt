@@ -1,0 +1,14 @@
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.AssemblyInfoInputs.cache
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.AssemblyInfo.cs
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.csproj.CoreCompileInputs.cache
+C:\C# Projetos\saida_dados\saida_dados\bin\Debug\net8.0\saida_dados.exe
+C:\C# Projetos\saida_dados\saida_dados\bin\Debug\net8.0\saida_dados.deps.json
+C:\C# Projetos\saida_dados\saida_dados\bin\Debug\net8.0\saida_dados.runtimeconfig.json
+C:\C# Projetos\saida_dados\saida_dados\bin\Debug\net8.0\saida_dados.dll
+C:\C# Projetos\saida_dados\saida_dados\bin\Debug\net8.0\saida_dados.pdb
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.dll
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\refint\saida_dados.dll
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.pdb
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\saida_dados.genruntimeconfig.cache
+C:\C# Projetos\saida_dados\saida_dados\obj\Debug\net8.0\ref\saida_dados.dll

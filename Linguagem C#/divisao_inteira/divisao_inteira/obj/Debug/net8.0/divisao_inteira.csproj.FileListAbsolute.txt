@@ -1,0 +1,14 @@
+C:\C# Projetos\divisao_inteira\divisao_inteira\bin\Debug\net8.0\divisao_inteira.exe
+C:\C# Projetos\divisao_inteira\divisao_inteira\bin\Debug\net8.0\divisao_inteira.deps.json
+C:\C# Projetos\divisao_inteira\divisao_inteira\bin\Debug\net8.0\divisao_inteira.runtimeconfig.json
+C:\C# Projetos\divisao_inteira\divisao_inteira\bin\Debug\net8.0\divisao_inteira.dll
+C:\C# Projetos\divisao_inteira\divisao_inteira\bin\Debug\net8.0\divisao_inteira.pdb
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.AssemblyInfoInputs.cache
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.AssemblyInfo.cs
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.csproj.CoreCompileInputs.cache
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.dll
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\refint\divisao_inteira.dll
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.pdb
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\divisao_inteira.genruntimeconfig.cache
+C:\C# Projetos\divisao_inteira\divisao_inteira\obj\Debug\net8.0\ref\divisao_inteira.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testando_debbuger/1.0.0": {
+        "runtime": {
+          "testando_debbuger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testando_debbuger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

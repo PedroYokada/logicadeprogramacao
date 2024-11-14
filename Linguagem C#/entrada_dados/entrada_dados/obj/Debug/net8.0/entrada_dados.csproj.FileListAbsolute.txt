@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\bin\Debug\net8.0\entrada_dados.exe
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\bin\Debug\net8.0\entrada_dados.deps.json
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\bin\Debug\net8.0\entrada_dados.runtimeconfig.json
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\bin\Debug\net8.0\entrada_dados.dll
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\bin\Debug\net8.0\entrada_dados.pdb
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.AssemblyInfo.cs
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.dll
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\refint\entrada_dados.dll
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.pdb
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\entrada_dados.genruntimeconfig.cache
+C:\Users\pedro\source\repos\entrada_dados\entrada_dados\obj\Debug\net8.0\ref\entrada_dados.dll

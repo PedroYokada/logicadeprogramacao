@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\enquanto\enquanto\bin\Debug\net8.0\enquanto.exe
+C:\Users\pedro\source\repos\enquanto\enquanto\bin\Debug\net8.0\enquanto.deps.json
+C:\Users\pedro\source\repos\enquanto\enquanto\bin\Debug\net8.0\enquanto.runtimeconfig.json
+C:\Users\pedro\source\repos\enquanto\enquanto\bin\Debug\net8.0\enquanto.dll
+C:\Users\pedro\source\repos\enquanto\enquanto\bin\Debug\net8.0\enquanto.pdb
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.AssemblyInfo.cs
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.dll
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\refint\enquanto.dll
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.pdb
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\enquanto.genruntimeconfig.cache
+C:\Users\pedro\source\repos\enquanto\enquanto\obj\Debug\net8.0\ref\enquanto.dll

@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\retangulo\retangulo\bin\Debug\net8.0\retangulo.exe
+C:\Users\pedro\source\repos\retangulo\retangulo\bin\Debug\net8.0\retangulo.deps.json
+C:\Users\pedro\source\repos\retangulo\retangulo\bin\Debug\net8.0\retangulo.runtimeconfig.json
+C:\Users\pedro\source\repos\retangulo\retangulo\bin\Debug\net8.0\retangulo.dll
+C:\Users\pedro\source\repos\retangulo\retangulo\bin\Debug\net8.0\retangulo.pdb
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.AssemblyInfo.cs
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.dll
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\refint\retangulo.dll
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.pdb
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\retangulo.genruntimeconfig.cache
+C:\Users\pedro\source\repos\retangulo\retangulo\obj\Debug\net8.0\ref\retangulo.dll

@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\bin\Debug\net8.0\estruturas_controle.exe
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\bin\Debug\net8.0\estruturas_controle.deps.json
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\bin\Debug\net8.0\estruturas_controle.runtimeconfig.json
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\bin\Debug\net8.0\estruturas_controle.dll
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\bin\Debug\net8.0\estruturas_controle.pdb
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.AssemblyInfo.cs
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.dll
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\refint\estruturas_controle.dll
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.pdb
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\estruturas_controle.genruntimeconfig.cache
+C:\Users\pedro\source\repos\estruturas_controle\estruturas_controle\obj\Debug\net8.0\ref\estruturas_controle.dll

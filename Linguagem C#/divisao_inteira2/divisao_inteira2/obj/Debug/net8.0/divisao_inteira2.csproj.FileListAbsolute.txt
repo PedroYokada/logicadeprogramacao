@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.AssemblyInfo.cs
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\bin\Debug\net8.0\divisao_inteira2.exe
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\bin\Debug\net8.0\divisao_inteira2.deps.json
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\bin\Debug\net8.0\divisao_inteira2.runtimeconfig.json
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\bin\Debug\net8.0\divisao_inteira2.dll
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\bin\Debug\net8.0\divisao_inteira2.pdb
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.dll
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\refint\divisao_inteira2.dll
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.pdb
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\divisao_inteira2.genruntimeconfig.cache
+C:\Users\pedro\source\repos\divisao_inteira2\divisao_inteira2\obj\Debug\net8.0\ref\divisao_inteira2.dll

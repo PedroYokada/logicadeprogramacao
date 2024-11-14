@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\vetor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5329A2BA-30DF-4320-8C2E-7AA93065671F}|vetor\\vetor.csproj|c:\\users\\pedro\\source\\repos\\vetor\\vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5329A2BA-30DF-4320-8C2E-7AA93065671F}|vetor\\vetor.csproj|solutionrelative:vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\vetor\\vetor\\Program.cs",
+              "RelativeDocumentMoniker": "vetor\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\vetor\\vetor\\Program.cs",
+              "RelativeToolTip": "vetor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:14:05.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

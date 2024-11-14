@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\bin\Debug\net8.0\testando_debbuger.exe
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\bin\Debug\net8.0\testando_debbuger.deps.json
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\bin\Debug\net8.0\testando_debbuger.runtimeconfig.json
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\bin\Debug\net8.0\testando_debbuger.dll
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\bin\Debug\net8.0\testando_debbuger.pdb
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.AssemblyInfo.cs
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.dll
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\refint\testando_debbuger.dll
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.pdb
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\testando_debbuger.genruntimeconfig.cache
+C:\Users\pedro\source\repos\testando_debbuger\testando_debbuger\obj\Debug\net8.0\ref\testando_debbuger.dll

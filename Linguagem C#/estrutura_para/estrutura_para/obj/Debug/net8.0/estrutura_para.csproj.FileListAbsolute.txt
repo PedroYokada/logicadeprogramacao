@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\bin\Debug\net8.0\estrutura_para.exe
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\bin\Debug\net8.0\estrutura_para.deps.json
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\bin\Debug\net8.0\estrutura_para.runtimeconfig.json
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\bin\Debug\net8.0\estrutura_para.dll
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\bin\Debug\net8.0\estrutura_para.pdb
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.AssemblyInfo.cs
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.dll
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\refint\estrutura_para.dll
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.pdb
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\estrutura_para.genruntimeconfig.cache
+C:\Users\pedro\source\repos\estrutura_para\estrutura_para\obj\Debug\net8.0\ref\estrutura_para.dll

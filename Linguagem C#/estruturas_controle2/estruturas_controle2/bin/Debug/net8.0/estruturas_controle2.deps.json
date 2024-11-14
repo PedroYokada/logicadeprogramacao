@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "estruturas_controle2/1.0.0": {
+        "runtime": {
+          "estruturas_controle2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estruturas_controle2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\idades\idades\bin\Debug\net8.0\idades.exe
+C:\Users\pedro\source\repos\idades\idades\bin\Debug\net8.0\idades.deps.json
+C:\Users\pedro\source\repos\idades\idades\bin\Debug\net8.0\idades.runtimeconfig.json
+C:\Users\pedro\source\repos\idades\idades\bin\Debug\net8.0\idades.dll
+C:\Users\pedro\source\repos\idades\idades\bin\Debug\net8.0\idades.pdb
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.AssemblyInfo.cs
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.dll
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\refint\idades.dll
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.pdb
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\idades.genruntimeconfig.cache
+C:\Users\pedro\source\repos\idades\idades\obj\Debug\net8.0\ref\idades.dll
